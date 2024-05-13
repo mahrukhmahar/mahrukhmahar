@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahrukh Mahar</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
+<br>
 <img align="right" width="400" src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif">
 - 🔭 I’m currently working on **Full-stack Web Development**
 
